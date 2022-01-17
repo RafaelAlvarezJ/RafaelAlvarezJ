@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RafaelAlvarezJ, I am a Petroleum Engineering student
-- 👀 I’m interested in Numerical Reservoir Simulation, Machine Learning
+- 👀 I’m interested in Numerical Reservoir Simulation and Machine Learning
 - 🌱 I’m currently learning Machine Learning algorithms
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me: rafael_alvarezjimenez@outlook.com
